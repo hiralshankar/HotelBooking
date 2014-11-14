@@ -1,0 +1,6 @@
+com.jpmorgan.hotel.facilities
+com.jpmorgan.hotel.room
+com.jpmorgan.hotel.room.impl
+com.jpmorgan.hotel.service
+com.jpmorgan.hotel.service.impl
+com.jpmorgan.hotel.test
